@@ -1,2 +1,2 @@
 # e-commerce-website
-React + SpringBoot
+E-commerce Web Application (React + SpringBoot)
