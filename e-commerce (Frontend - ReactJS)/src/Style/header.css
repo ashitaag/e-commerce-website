@@ -1,0 +1,35 @@
+.header_search{
+    display: flex;
+    flex: 1;
+    /*align-items: center;*/
+    border-radius: 24px;
+}
+.header_searchInput{
+    height: 22px;
+    padding: 10px;
+    border: none;
+    width: 100%;
+
+}
+.header_searchIcon{
+    /*height: 22px;*/
+    background-color: orange;
+}
+
+.basket{
+    color: white;
+}
+.header_basketCount{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-color: white;
+}
+.header_optionLineTwo{
+    font-size: 13px;
+    font-weight: 800;
+}
+.header_optionBasket{
+    display: flex;
+    align-items: center;
+    color: white;
+}
